@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Reverse Strings", "01. Reverse Strings\01. Reverse Strings.csproj", "{F15704A0-DD18-47BC-9B11-6B23A58075AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Simple Calculator", "02.Simple Calculator\02.Simple Calculator.csproj", "{3D77629A-8D3A-43B5-84C0-50C33A311539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Simple Calculator", "02.Simple Calculator\02.Simple Calculator.csproj", "{3D77629A-8D3A-43B5-84C0-50C33A311539}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.Decimal to Binary Converter", "3.Decimal to Binary Converter\3.Decimal to Binary Converter.csproj", "{854890AD-209E-4417-A744-1A35B8D48287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Reverse Strings", "01.Reverse Strings\01.Reverse Strings.csproj", "{0F9BA084-88D2-4619-AF7E-A078C8B2E196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Decimal to Binary Converter", "03.Decimal to Binary Converter\03.Decimal to Binary Converter.csproj", "{EE13C176-9021-4E5C-842D-C8E3F6BF82F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +17,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F15704A0-DD18-47BC-9B11-6B23A58075AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F15704A0-DD18-47BC-9B11-6B23A58075AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F15704A0-DD18-47BC-9B11-6B23A58075AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F15704A0-DD18-47BC-9B11-6B23A58075AE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3D77629A-8D3A-43B5-84C0-50C33A311539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3D77629A-8D3A-43B5-84C0-50C33A311539}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D77629A-8D3A-43B5-84C0-50C33A311539}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D77629A-8D3A-43B5-84C0-50C33A311539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{854890AD-209E-4417-A744-1A35B8D48287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854890AD-209E-4417-A744-1A35B8D48287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854890AD-209E-4417-A744-1A35B8D48287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854890AD-209E-4417-A744-1A35B8D48287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9BA084-88D2-4619-AF7E-A078C8B2E196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9BA084-88D2-4619-AF7E-A078C8B2E196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9BA084-88D2-4619-AF7E-A078C8B2E196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9BA084-88D2-4619-AF7E-A078C8B2E196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE13C176-9021-4E5C-842D-C8E3F6BF82F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE13C176-9021-4E5C-842D-C8E3F6BF82F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE13C176-9021-4E5C-842D-C8E3F6BF82F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE13C176-9021-4E5C-842D-C8E3F6BF82F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

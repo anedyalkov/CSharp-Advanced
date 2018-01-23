@@ -1,12 +1,11 @@
-﻿namespace _01._Reverse_Strings
+﻿namespace _01.Reverse_Strings
 {
     using System;
-    using System.Collections;
     using System.Collections.Generic;
 
     public class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
             var input = Console.ReadLine();
             var stack = new Stack<char>(input.ToCharArray());
