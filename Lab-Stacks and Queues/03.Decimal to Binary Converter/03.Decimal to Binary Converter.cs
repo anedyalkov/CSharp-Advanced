@@ -22,8 +22,7 @@
             {
                 var remainder = input % 2;
                 stack.Push(remainder);
-                var result = input/2;
-                input = result;
+                input /= 2;
             }
 
             while (stack.Count > 0)
