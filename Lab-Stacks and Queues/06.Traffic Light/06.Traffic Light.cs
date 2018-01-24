@@ -12,6 +12,7 @@
             var command = Console.ReadLine();
             var carsQueue = new Queue<string>();
             var carsThatPassedTotal = 0;
+
             while (command != "end" )
             {
                 if (command != "green")
