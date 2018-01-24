@@ -13,7 +13,6 @@
             var players = input.Split(' ');
 
             var queue = new Queue<string>(players);
-            var stack = new Stack<string>(players);
 
             while (queue.Count != 1)
             {
