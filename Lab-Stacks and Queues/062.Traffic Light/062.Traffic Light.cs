@@ -5,7 +5,7 @@
 
     public class Program
     {
-        public static void Main()
+        static void Main()
         {
             var numberOfCars = int.Parse(Console.ReadLine());
 
