@@ -5,7 +5,7 @@
 
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             var input = Console.ReadLine();
             var stack = new Stack<char>(input.ToCharArray());

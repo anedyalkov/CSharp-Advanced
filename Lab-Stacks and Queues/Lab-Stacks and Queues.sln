@@ -5,11 +5,13 @@ VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Simple Calculator", "02.Simple Calculator\02.Simple Calculator.csproj", "{3D77629A-8D3A-43B5-84C0-50C33A311539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Reverse Strings", "01.Reverse Strings\01.Reverse Strings.csproj", "{0F9BA084-88D2-4619-AF7E-A078C8B2E196}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Reverse Strings", "01.Reverse Strings\01.Reverse Strings.csproj", "{0F9BA084-88D2-4619-AF7E-A078C8B2E196}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Decimal to Binary Converter", "03.Decimal to Binary Converter\03.Decimal to Binary Converter.csproj", "{EE13C176-9021-4E5C-842D-C8E3F6BF82F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Decimal to Binary Converter", "03.Decimal to Binary Converter\03.Decimal to Binary Converter.csproj", "{EE13C176-9021-4E5C-842D-C8E3F6BF82F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Matching Brackets", "04.Matching Brackets\04.Matching Brackets.csproj", "{3A5200B6-5DEF-4113-9BD7-A6FB45B9B7C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Matching Brackets", "04.Matching Brackets\04.Matching Brackets.csproj", "{3A5200B6-5DEF-4113-9BD7-A6FB45B9B7C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Hot Potato", "05.Hot Potato\05.Hot Potato.csproj", "{D8E79F73-4B5D-4DCA-8AFA-8F2692FF538B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3A5200B6-5DEF-4113-9BD7-A6FB45B9B7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A5200B6-5DEF-4113-9BD7-A6FB45B9B7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A5200B6-5DEF-4113-9BD7-A6FB45B9B7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E79F73-4B5D-4DCA-8AFA-8F2692FF538B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E79F73-4B5D-4DCA-8AFA-8F2692FF538B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E79F73-4B5D-4DCA-8AFA-8F2692FF538B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E79F73-4B5D-4DCA-8AFA-8F2692FF538B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
